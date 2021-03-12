@@ -3,7 +3,8 @@
 源代码来自于：https://github.com/AntixK/PyTorch-VAE
 
 环境要求：
-```pip install requirements```
+
+```pip install requirements.txt```
 
 其他利用的资源：
 
