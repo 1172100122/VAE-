@@ -2,6 +2,9 @@
 
 源代码来自于：https://github.com/AntixK/PyTorch-VAE
 
+环境要求：
+```pip install requirements```
+
 其他利用的资源：
 
 转置卷积原理动态图：https://github.com/vdumoulin/conv_arithmetic
